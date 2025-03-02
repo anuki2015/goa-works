@@ -1,0 +1,1 @@
+print("anuki")#sintax error #logical error 
